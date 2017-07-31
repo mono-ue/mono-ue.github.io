@@ -27,7 +27,7 @@ You will need [source access to Unreal Engine on GitHub](https://www.unrealengin
 
 The plugin has been developed with the support of Microsoft, but is currently a personal side project of several Microsoft employees. It is not officially supported by either Microsoft or Epic. It is being made freely available as source to all Unreal Engine licensees in the hope that the community considers it useful and participates in its development.
 
-** This code is provided by Microsoft "as is" with no warranty **
+**This code is provided by Microsoft "as is" with no warranty**
 
 ### Contact
 
