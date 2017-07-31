@@ -17,13 +17,17 @@ Planned and in development:
 
 The plugin is currently available only as source, as it requires a patched build of the engine.
 
-You will need [source access to Unreal Engine on GitHub](https://www.unrealengine.com/ue4-on-github).
+You will need [source access to Unreal Engine on GitHub](https://www.unrealengine.com/ue4-on-github) to get access to the MonoUE fork.
 
-Clone the https://github.com/mono-ue/UnrealEngine for of Unreal Engine, check out the *monoue-4.16* branch, and follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md).
+1. Clone the https://github.com/mono-ue/UnrealEngine fork of Unreal Engine
+2. Check out the *monoue-4.16* branch
+3. Follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md).
 
 ### Development
 
 The plugin has been developed with the support of Microsoft, but is currently a personal side project of several Microsoft employees. It is not officially supported by either Microsoft or Epic. It is being made freely available as source to all Unreal Engine licensees in the hope that the community considers it useful and participates in its development.
+
+** This code is provided by Microsoft "as is" with no warranty **
 
 ### Contact
 
