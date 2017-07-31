@@ -25,7 +25,7 @@ The plugin is currently available only as source, as it requires a patched build
 
 You will need [source access to Unreal Engine on GitHub](https://www.unrealengine.com/ue4-on-github).
 
-Clone the https://github.com/mono-ue/UnrealEngine for of Unreal Engine, check out the *monoue-4.16* branch, and follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/xamarin/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md).
+Clone the https://github.com/mono-ue/UnrealEngine for of Unreal Engine, check out the *monoue-4.16* branch, and follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md).
 
 ### Contact
 
