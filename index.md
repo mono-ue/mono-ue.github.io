@@ -29,7 +29,7 @@ The plugin has been developed with the support of Microsoft, but is currently a 
 
 **This code is provided by Microsoft "as is" with no warranty**.
 
-For details, see [LICENSE.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/LICENSE.md] in the plugin directory.
+For details, see [LICENSE.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/LICENSE.md) in the plugin directory.
 
 ### Contact
 
