@@ -1,4 +1,4 @@
-### Features
+## Features
 
 * Fully integrated with the Unreal object system and Unreal Editor.
 * C# bindings are generated automatically for all Blueprint-accessible types and members.
@@ -13,7 +13,7 @@ Planned or in development:
 * Mobile platform support
 * Cooked builds
 
-### Installation
+## Installation
 
 The plugin is currently available only as source, as it requires a patched build of the engine.
 
@@ -23,7 +23,7 @@ You will need [source access to Unreal Engine on GitHub](https://www.unrealengin
 2. Check out the [monoue-4.16](https://github.com/xamarin/UnrealEngine/tree/monoue-4.16) branch
 3. Follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md).
 
-### License
+## License
 
 The plugin has been developed with the support of Microsoft, but is currently a personal side project of several Microsoft employees. It is not officially supported by either Microsoft or Epic. It is being made freely available as source to all Unreal Engine licensees in the hope that the community considers it useful and participates in its development.
 
@@ -31,7 +31,7 @@ The plugin has been developed with the support of Microsoft, but is currently a 
 
 For details, see [LICENSE.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/LICENSE.md) in the plugin directory.
 
-### Contact
+## Contact
 
 For questions and discussion, please use the [mono-ue mailing list](https://lists.dot.net/mailman/listinfo/mono-ue).
 
