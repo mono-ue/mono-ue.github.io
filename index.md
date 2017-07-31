@@ -5,7 +5,7 @@
 * Objects and functions defined from C# can subclass types defined in C++, and can be used from Blueprint and from the Unreal Editor.
 * Runs on Windows and Mac
 
-Planned and in development:
+Planned or in development:
 
 * Visual Studio integration
 * Debugging
