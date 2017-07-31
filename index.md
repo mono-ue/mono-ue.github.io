@@ -1,9 +1,3 @@
-## Introduction
-
-MonoUE (or Mono or Unreal Engine) is a plugin for Unreal Engine that allows writing gameplay code with C# and F#. 
-
-The plugin has been developed with the support of Microsoft, but is currently a personal side project of several Microsoft employees. It is not officially supported by either Microsoft or Epic. It is being made freely available as source to all Unreal Engine licensees in the hope that the community considers it useful and participates in its development.
-
 ### Features
 
 * Fully integrated with the Unreal object system and Unreal Editor.
@@ -26,6 +20,10 @@ The plugin is currently available only as source, as it requires a patched build
 You will need [source access to Unreal Engine on GitHub](https://www.unrealengine.com/ue4-on-github).
 
 Clone the https://github.com/mono-ue/UnrealEngine for of Unreal Engine, check out the *monoue-4.16* branch, and follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md).
+
+### Development
+
+The plugin has been developed with the support of Microsoft, but is currently a personal side project of several Microsoft employees. It is not officially supported by either Microsoft or Epic. It is being made freely available as source to all Unreal Engine licensees in the hope that the community considers it useful and participates in its development.
 
 ### Contact
 
