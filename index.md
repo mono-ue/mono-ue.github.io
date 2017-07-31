@@ -19,8 +19,8 @@ The plugin is currently available only as source, as it requires a patched build
 
 You will need [source access to Unreal Engine on GitHub](https://www.unrealengine.com/ue4-on-github) to get access to the MonoUE fork.
 
-1. Clone the https://github.com/mono-ue/UnrealEngine fork of Unreal Engine
-2. Check out the *monoue-4.16* branch
+1. Clone the [mono-ue/UnrealEngine](https://github.com/mono-ue/UnrealEngine) fork of Unreal Engine
+2. Check out the [monoue-4.16](https://github.com/xamarin/UnrealEngine/tree/monoue-4.16) branch
 3. Follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md).
 
 ### Development
@@ -31,6 +31,8 @@ The plugin has been developed with the support of Microsoft, but is currently a 
 
 ### Contact
 
-The primary contact for MonoUE is [Mikayla Hutchinson](https://github.com/mhutch).
+For questions and discussion, please use the [mono-ue mailing list](https://lists.dot.net/mailman/listinfo/mono-ue).
+
+The primary contact for the project is [Mikayla Hutchinson](https://github.com/mhutch) (@mjhutchinson)[https://twitter.com/mjhutchinson).
 
 There is a MonoUE mailing list at https://lists.dot.net/mailman/listinfo/mono-ue
