@@ -1,9 +1,9 @@
 ### Features
 
 * Fully integrated with the Unreal object system and Unreal Editor.
-* C# bindings are generated automatically for all Blueprint-accessible types and member.
+* C# bindings are generated automatically for all Blueprint-accessible types and members.
 * Objects and functions defined from C# can subclass types defined in C++, and can be used from Blueprint and from the Unreal Editor.
-* Runs on Windows and Mac
+* Runs on Windows and Mac.
 
 Planned or in development:
 
