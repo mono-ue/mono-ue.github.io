@@ -33,6 +33,4 @@ The plugin has been developed with the support of Microsoft, but is currently a 
 
 For questions and discussion, please use the [mono-ue mailing list](https://lists.dot.net/mailman/listinfo/mono-ue).
 
-The primary contact for the project is [Mikayla Hutchinson](https://github.com/mhutch) (@mjhutchinson)[https://twitter.com/mjhutchinson).
-
-There is a MonoUE mailing list at https://lists.dot.net/mailman/listinfo/mono-ue
+The primary contact for the project is [Mikayla Hutchinson](https://github.com/mhutch) (@mjhutchinson)[https://twitter.com/mjhutchinson].
