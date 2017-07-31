@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: MonoUE
+description: Mono for Unreal Engine is a plugin that enables writing gameplay code in C#.
+google_analytics: UA-103662939-1
