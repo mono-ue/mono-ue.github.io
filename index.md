@@ -15,6 +15,8 @@ Planned or in development:
 * Mobile platform support
 * Cooked builds
 
+Feature requests and and bugs are tracked using [GitHub Issues](https://github.com/mono-ue/UnrealEngine/issues). 
+
 ## Installation
 
 The plugin is currently available only as source, as it requires a patched build of the engine.
