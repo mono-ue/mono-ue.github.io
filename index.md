@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/mono-ue/mono-ue.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MonoUE (or Mono or Unreal Engine) is a plugin for Unreal Engine that allows writing gameplay code with C# and F#. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The plugin has been developed with the support of Microsoft, but is currently a personal side project of several Microsoft employees. It is not officially supported by either Microsoft or Epic. It is being made freely available as source to all Unreal Engine licensees in the hope that the community considers it useful and participates in its development.
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Fully integrated with the Unreal object system and Unreal Editor.
+* C# bindings are generated automatically for all Blueprint-accessible types and member.
+* Objects and functions defined from C# can subclass types defined in C++, and can be used from Blueprint and from the Unreal Editor.
+* Runs on Windows and Mac
 
-```markdown
-Syntax highlighted code block
+Planned and in development:
 
-# Header 1
-## Header 2
-### Header 3
+* Visual Studio integration
+* Debugging
+* Hot reload
+* Mobile platform support
+* Cooked builds
 
-- Bulleted
-- List
+### Installation
 
-1. Numbered
-2. List
+The plugin is currently available only as source, as it requires a patched build of the engine.
 
-**Bold** and _Italic_ and `Code` text
+You will need [source access to Unreal Engine on GitHub](https://www.unrealengine.com/ue4-on-github).
 
-[Link](url) and ![Image](src)
-```
+Clone the https://github.com/mono-ue/UnrealEngine for of Unreal Engine, check out the *monoue-4.16* branch, and follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/xamarin/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
+The primary contact for MonoUE is [Mikayla Hutchinson](https://github.com/mhutch).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mono-ue/mono-ue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+There is a MonoUE mailing list at https://lists.dot.net/mailman/listinfo/mono-ue
