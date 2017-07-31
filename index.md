@@ -23,11 +23,13 @@ You will need [source access to Unreal Engine on GitHub](https://www.unrealengin
 2. Check out the [monoue-4.16](https://github.com/xamarin/UnrealEngine/tree/monoue-4.16) branch
 3. Follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md).
 
-### Development
+### License
 
 The plugin has been developed with the support of Microsoft, but is currently a personal side project of several Microsoft employees. It is not officially supported by either Microsoft or Epic. It is being made freely available as source to all Unreal Engine licensees in the hope that the community considers it useful and participates in its development.
 
 **This code is provided by Microsoft "as is" with no warranty**.
+
+For details, see [LICENSE.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/LICENSE.md] in the plugin directory.
 
 ### Contact
 
