@@ -25,7 +25,7 @@ You will need [source access to Unreal Engine on GitHub](https://www.unrealengin
 
 1. Clone the [mono-ue/UnrealEngine](https://github.com/mono-ue/UnrealEngine) fork of Unreal Engine
 2. Check out the [monoue-4.16](https://github.com/mono-ue/UnrealEngine/tree/monoue-4.16) branch
-3. Follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md).
+3. Follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md#setup).
 
 ## License
 
