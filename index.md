@@ -21,10 +21,10 @@ Feature requests and and bugs are tracked using [GitHub Issues](https://github.c
 
 The plugin is currently available only as source, as it requires a patched build of the engine.
 
-You will need [source access to Unreal Engine on GitHub](https://www.unrealengine.com/ue4-on-github) to get access to the MonoUE fork.
+**You will need [source access to Unreal Engine on GitHub](https://www.unrealengine.com/ue4-on-github) to get access to the MonoUE fork.**
 
 1. Clone the [mono-ue/UnrealEngine](https://github.com/mono-ue/UnrealEngine) fork of Unreal Engine
-2. Check out the [monoue-4.16](https://github.com/mono-ue/UnrealEngine/tree/monoue-4.16) branch
+2. Check out the [monoue-4.17](https://github.com/mono-ue/UnrealEngine/tree/monoue-4.17) branch
 3. Follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md#setup).
 
 ## License
