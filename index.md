@@ -37,6 +37,6 @@ For details, see [LICENSE.md](https://github.com/mono-ue/UnrealEngine/blob/monou
 
 ## Contact
 
-For questions and discussion, please use the [mono-ue mailing list](https://lists.dot.net/mailman/listinfo/mono-ue).
+For questions and discussion, please use the [mono-ue mailing list](https://lists.dot.net/mailman/listinfo/mono-ue) or the [Gitter chat room](https://gitter.im/mono-ue-unrealengine).
 
 The primary contact for the project is [Mikayla Hutchinson](https://github.com/mhutch) ([@mjhutchinson](https://twitter.com/mjhutchinson)).
