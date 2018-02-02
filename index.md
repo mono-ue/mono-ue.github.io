@@ -25,7 +25,7 @@ The plugin is currently available only as source, as it requires a patched build
 
 1. Clone the [mono-ue/UnrealEngine](https://github.com/mono-ue/UnrealEngine) fork of Unreal Engine
 2. Check out the [monoue](https://github.com/mono-ue/UnrealEngine/tree/monoue) branch
-3. Follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/README.md#setup).
+3. Follow the instructions in the [Engine/Plugins/MonoUE/README.md](https://github.com/mono-ue/UnrealEngine/blob/monoue/Engine/Plugins/MonoUE/README.md#setup).
 
 ## License
 
@@ -33,7 +33,7 @@ The plugin has been developed with the support of Microsoft, but is currently a 
 
 **This code is provided by Microsoft "as is" with no warranty**.
 
-For details, see [LICENSE.md](https://github.com/mono-ue/UnrealEngine/blob/monoue-4.16/Engine/Plugins/MonoUE/LICENSE.md) in the plugin directory.
+For details, see [LICENSE.md](https://github.com/mono-ue/UnrealEngine/blob/monoue/Engine/Plugins/MonoUE/LICENSE.md) in the plugin directory.
 
 ## Contact
 
